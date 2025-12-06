@@ -2033,12 +2033,12 @@ iframe {
 .mouse-follower .cursor-outline {
   height: 30px;
   width: 30px;
-  border: 1px solid #ff4d4a;
+  border: 1px solid #b6d345;
 }
 .mouse-follower .cursor-dot {
   height: 6px;
   width: 6px;
-  background: #ff4d4a;
+  background: #b6d345;
 }
 .mouse-follower.hide-cursor span {
   border-color: transparent;
